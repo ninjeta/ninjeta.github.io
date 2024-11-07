@@ -1,4 +1,4 @@
-<?php
+<?php 
 // index.php
 $title = "PereiroCortinas - Inicio";
 include 'includes/../header.php';
